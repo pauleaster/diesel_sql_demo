@@ -1,3 +1,5 @@
+// This example code has been modified from https://diesel.rs/guides/getting-started
+
 pub mod models;
 pub mod schema;
 
